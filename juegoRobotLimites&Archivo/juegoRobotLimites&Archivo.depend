@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645385201 source:c:\users\vaio\proyectos\tareasprogra\9959-21-2081\juegorobotlimites&archivo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
