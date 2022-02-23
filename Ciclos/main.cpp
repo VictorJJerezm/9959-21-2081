@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-
+/*
 //contador De 1 a 100.
     int Counter = 0;
     while(Counter < 100)
@@ -12,7 +12,7 @@ int main()
         Counter = Counter + 1;
         cout << Counter << endl;
     }
-
+*/
 /*
 //Ciclo para saber si aun soy feliz.
     bool isHappy = true;
@@ -27,8 +27,8 @@ int main()
         if(input == 'f')
             isHappy = false;
     }
-
 */
+
 /*
 //Ciclo que sin importar que se ingrese se cierra.
     bool isHappy = false;
@@ -56,7 +56,7 @@ int main()
         }
     }
 */
-/*
+
 //Ciclo que nos muestra los numeros ingresados en el codigo.
     float Grades[6] = { 3.14f, 7.12f, 10.0f, 0.98f, -1.34f, 8};
 
@@ -64,6 +64,6 @@ int main()
     {
         cout << Grades[j] << endl;
     }
-*/
+
     return 0;
 }
