@@ -1,4 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1646332564 source:c:\users\vaio\proyectos\tareasprogra\9959-21-2081\prototipop11p2022\main.cpp
 	<stdio.h>
+=======
+1646330910 source:c:\users\vaio\proyectos\tareasprogra\9959-21-2081\prototipop11p2022\main.cpp
+	<iostream>
+>>>>>>> a0bc7be0fc8c271133327fafc30e2b0fb0e66634
 
