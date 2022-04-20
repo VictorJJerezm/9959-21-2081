@@ -12,6 +12,7 @@ int main()
         Counter = Counter + 1;
         cout << Counter << endl;
     }
+
 */
 /*
 //Ciclo para saber si aun soy feliz.
@@ -27,8 +28,8 @@ int main()
         if(input == 'f')
             isHappy = false;
     }
-*/
 
+*/
 /*
 //Ciclo que sin importar que se ingrese se cierra.
     bool isHappy = false;
@@ -55,10 +56,10 @@ int main()
              cout << "D: numero impar" << endl;
         }
     }
-*/
 
+*/
 //Ciclo que nos muestra los numeros ingresados en el codigo.
-    float Grades[6] = { 3.14f, 7.12f, 10.0f, 0.98f, -1.34f, 8};
+float Grades[6] = { 3.14f, 7.12f, 10.0f, 0.98f, -1.34f, 8};
 
     for(int j = 0; j < 6 ; j++)
     {
